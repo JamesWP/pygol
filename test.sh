@@ -8,7 +8,7 @@ do
   fi
   cat tmp | python p.py > tmp2
   mv tmp2 tmp
-  #clear
-  #cat tmp
-  #sleep 0.1
+  clear
+  cat tmp
+  sleep 0.1
 done
